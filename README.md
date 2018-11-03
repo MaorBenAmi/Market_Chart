@@ -1,3 +1,25 @@
+This project build with create-react-app.
+
+Node.js version:
+v8.12.0
+
+Npm version:
+6.4.1
+
+create-react-app version:
+1.5.2
+
+List of all my node_modules and extrenal libraries i used:
+- react-bootstrap
+- Bootstrap CDN - 3.7.7.
+- HighCharts
+
+For runing the project please follow the instructions below:
+1. Navigate to root folder and type "npm install" for install all create-react-app dependencies.
+2. start react app - go to root folder and type "npm start". 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
